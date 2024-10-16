@@ -1,3 +1,15 @@
 body {
-    background-color: rgb(255, 246, 235);
+  background-color: rgb(255, 246, 235);
+}
+
+.sheet {
+  margin-top: 30px;
+  font-size: 60px;
+  cursor: pointer;
+  white-space: normal;
+  letter-spacing: 6px;
+}
+.selected {
+  background-color: chartreuse;
+  border-radius: 50%;
 }
