@@ -92,4 +92,4 @@ form.addEventListener('submit', evt => {
   form.reset();
 });
 
-console.log(makeMessage('Jacob')); // "Welcom, Jacob!"
+console.log(makeMessage('Jacob'));
